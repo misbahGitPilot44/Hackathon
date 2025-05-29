@@ -1,3 +1,3 @@
-HACKATHON REPATORS
+HACKATHON REFACTORS
 
 Every day, millions of people use websites with designs that haven’t changed in decades. These digital dinosaurs often provide essential services but deliver frustrating experiences that feel like stepping into a time machine. What if we could take these functional but outdated digital interfaces and transform them with today’s technology? The "RAPID" in RAPID REBUILD stands for our belief that innovation doesn’t always require building from zero. Sometimes the most impactful solutions come from reimagining what already exists, using modern tools to breathe new life into crucial but neglected digital spaces.
