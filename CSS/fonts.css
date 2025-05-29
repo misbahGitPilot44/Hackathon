@@ -1,0 +1,47 @@
+/* Define the Poppins font using local files */
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Italic.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../Fonts/Poppins-BoldItalic.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+    font-style: italic;
+}
+
+/* Add more @font-face rules for other weights (e.g., 100, 200, 300, 500, 600, 800, 900) as needed */
+
+/* Apply the Poppins font to elements */
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400; /* Regular */
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; /* Bold */
+}
+
+em {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
